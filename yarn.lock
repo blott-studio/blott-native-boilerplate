@@ -7067,10 +7067,10 @@ react-native-codegen@^0.0.7:
     jscodeshift "^0.11.0"
     nullthrows "^1.1.1"
 
-react-native-navigation@^7.23.1:
-  version "7.23.1"
-  resolved "https://registry.yarnpkg.com/react-native-navigation/-/react-native-navigation-7.23.1.tgz#11db7aa84cc8b0ea3f2492113e69d65a3d5a0be0"
-  integrity sha1-Edt6qEzIsOo/JJIRPmnWWj1aC+A=
+react-native-navigation@^7.51.2:
+  version "7.51.2"
+  resolved "https://registry.yarnpkg.com/react-native-navigation/-/react-native-navigation-7.51.2.tgz#e121d9b1c544c7745c15b1a7535d4882feffd904"
+  integrity sha512-/AcUoFI68138Y3gC1o9I8nWdklStebqr2rU/Po7/7/gl8tC3jPviD2zPNqf2wijuYxeFoQBk+OwcYRhv14HoxQ==
   dependencies:
     hoist-non-react-statics "3.x.x"
     lodash "4.17.x"
